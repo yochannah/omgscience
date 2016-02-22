@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "OMG, they do science!!"
+date:   2015-09-01 08:04:15
+categories: genetics
+---
+![Stand back, I'm going to try science!](/assets/xkcd_stand_back_science.jpg)
+(Courtesy of XKCD, of course, and a variant on the [regular expressions comic](http://xkcd.com/208/))
+
+So, I keep on getting excited about my work at Cambridge University's Department of Genetics. I'm most not a scientist - I'm a software developer, with a focus on front end web stuff - but my workplace totally is. My team makes [Intermine](http://intermine.org), designed to support biologists in data exploration and discovery.
+
+The thing that keeps on blowing my mind is that science is done right around me all the time. I'm going to see if I can keep up with an excited blog about it :)
