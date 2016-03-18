@@ -1,10 +1,3 @@
----
-layout: post
-title:  "First reading article"
-date:   2016-03-01 21:54:45
-categories: reading-list article-summary
----
-
 Link: https://bioinformatics.oxfordjournals.org/content/25/3/406.full
 
 >More usable web applications would enable bioinformatics researchers to find, interact with, share, compare and manipulate important information resources more effectively and efficiently, thus providing the enabling conditions for gaining new insights into biological processes.
@@ -12,7 +5,7 @@ Link: https://bioinformatics.oxfordjournals.org/content/25/3/406.full
 - sets tasks to investigate gene info in CATH, NCBI, BioCarta, and SwissProt regarding a breast cancer case. Observes users & encourages to think aloud
 - find homologues in drosophila
 
-CATH: Discusses "navigation usability".
+CATH: Discusses 'navigation usability'.
 
 >For large web repositories, however, the complexity of the information and navigation structures being designed and the multiplicity of micro-design interventions over time can cause designers to lose control of what is offered to the user at any given moment.
 
