@@ -50,3 +50,18 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.tags li {
+  list-style-type:none;
+  display:inline-block;
+  background:#eee; padding:0.2em 0.4em;
+  border-radius:2px;
+}
+
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+  vertical-align:middle;
+	fill: rgba(0,0,0,0.15);
+}
