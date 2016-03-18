@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "First reading article"
+date:   2016-03-01 21:54:45
+categories: reading-list, useful, article-summary
+---
+
 Link: https://bioinformatics.oxfordjournals.org/content/25/3/406.full
 
 >More usable web applications would enable bioinformatics researchers to find, interact with, share, compare and manipulate important information resources more effectively and efficiently, thus providing the enabling conditions for gaining new insights into biological processes.
