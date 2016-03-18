@@ -6,11 +6,14 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
 
-  <div class="blog-index">
-    {% assign post = site.posts.first %}
-    {% assign content = post.content %}
-    {% include post_detail.html %}
-  </div>
+
+    {% for post in site.posts %}
+    <div class="blog-index">
+      {% assign post = site.posts.first %}
+      {% assign content = post.content %}
+      {% include post_detail.html %}
+    </div>
+    {% endfor %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
