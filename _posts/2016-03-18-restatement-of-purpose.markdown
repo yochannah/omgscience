@@ -1,21 +1,10 @@
-Link: https://bioinformatics.oxfordjournals.org/content/25/3/406.full
+---
+layout: post
+title:  "Restatement of purpose"
+date:   2016-03-18 22:03
+categories: general
+---
 
->More usable web applications would enable bioinformatics researchers to find, interact with, share, compare and manipulate important information resources more effectively and efficiently, thus providing the enabling conditions for gaining new insights into biological processes.
+So, to change a bit: This blog is where my notes regarding bio usability will go, with the intent of having done a decent amount of reading and understanding in the bioinformatics usability area, so I can eventually work up the balls to apply for part-time postgrad study.
 
-- sets tasks to investigate gene info in CATH, NCBI, BioCarta, and SwissProt regarding a breast cancer case. Observes users & encourages to think aloud
-- find homologues in drosophila
-
-CATH: Discusses 'navigation usability'.
-
->For large web repositories, however, the complexity of the information and navigation structures being designed and the multiplicity of micro-design interventions over time can cause designers to lose control of what is offered to the user at any given moment.
-
-Different ages of sub-systems within a bioinformatics application can cause poor user experience - e.g. linking to old data from an up-to-date page. (Section 4.2, re CATH). **User should always know what data they are working with**
-
-Section 4.4, CATH: sorting browse-only data by sub family can make it hard to find the desired item. (e.g. mystery categories, user has to manually scan them all).
-
-Section 5, Search:
-- alternative identifiers, e.g. spellings (oestrogen/estrogen) and synonyms of identifiers, need to be associated.
-- DBs assume knowledge of data model. "SwissProt, for example, uses names of databases to communicate the search domains: SwissProt/trEMBL, SwissProt/tremble (full), SwissProt/tremble (beta), PROSITE, NWT-Taxonomy, SWISS-2D Page, just to name a few. Instead of being able to select the ‘content domain’ to search for, the user is faced with a list of technical names of databases they may not be familiar with."
-- makes three recommendations for clearer searching. Inform user about the search scope, ontology, and query syntax.
-- Overlong list results mean either: "(i) intimidated by the long list of items, they do not explore further and try to reformulate the query; (ii) they focus on the first, second or third results, hoping the first few results to be the most relevant ones (which is not always the case)"
-- "it is important to explicitly communicate to the user the actual ranking criteria used for displaying the results.... possibly, to allow sorting the obtained results by multiple, additional attributes (e.g. by publication/release date, by alphabetical order).""
+Initially this will mostly be reading papers and noting what seems to be useful and relevant. 
