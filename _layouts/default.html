@@ -18,7 +18,7 @@
               <svg class="icon icon-tag">
                 <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-tag"></use>
               </svg>
-               {{ tags }}
+               <a href="{{ root_url }}/tag/{{tags}}.html">{{ tags }}</a>
              </li>
           {% endfor %}
         </ul>
