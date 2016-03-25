@@ -51,11 +51,18 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-.tags li {
-  list-style-type:none;
+@mixin tag {
   display:inline-block;
   background:#eee; padding:0.2em 0.4em;
   border-radius:2px;
+}
+
+.tag {  @include tag;
+}
+
+.tags li {
+  @include tag;
+  list-style-type:none;
 }
 
 .icon {
@@ -65,3 +72,5 @@ $on-laptop:        800px;
   vertical-align:middle;
 	fill: rgba(0,0,0,0.15);
 }
+
+h1, h2, h3 {text-transform:capitalize;}
