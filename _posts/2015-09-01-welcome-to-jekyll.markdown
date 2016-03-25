@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OMG, they do science!!"
+title:  "OMG science"
 date:   2015-09-01 08:04:15
 categories: genetics
 ---

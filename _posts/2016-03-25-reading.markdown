@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Reading: CLI usability guidelines"
+date:   2016-03-25 20:38
+categories: reading-list
+tags: cli reading not-useful
+---
+
+<cite>Seemann, Torsten. "Ten recommendations for creating usable bioinformatics command line software." GigaScience 2.1 (2013): 1-3.
+APA</cite>
+
+This paper is written by someone with experience of CLI bioinformatics tools, covering 10 guidelines for greater CLI usability. Whilst I think I'm typically concerned with UIs, this may also be relevant.
+
+They cover providing useful feedback a well a general programming-relevant guidelines like not hardcoding, managing dependencies, etc.
+
+Overall these are reasonable and decent guidelines but probably not something I'll refer to in the future.
