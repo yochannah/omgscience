@@ -1,14 +1,9 @@
 ---
 layout: post
 title:  "Reading list discards"
-date:   2016-03-01 21:54:45
+date:   2016-03-18 21:54:45
 categories: reading-list
-tags: not-useful
----
-
-A list of articles that I've skimmed and decided are not useful for my current purposes; here's why.
-
----
+tags: not-useful reading
 
 ## Veretnik, Stella, J. Lynn Fink, and Philip E. Bourne. "Computational biology resources lack persistence and usability." PLoS computational biology 4.7 (2008).  
 
