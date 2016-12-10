@@ -11,3 +11,5 @@ Collected (private) thoughts on what I know so far: https://docs.google.com/docu
 
 - read general usability papers about usability in complex applications
 - read general usability papers about people dislike changing software and how it is handled.
+- add papers to reading list
+- read papers from the reading list
