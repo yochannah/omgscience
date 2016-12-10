@@ -12,6 +12,9 @@ The intro discusses the need for bioinformatics software to help lab scientists 
 
 > "Based on even this limited scope, findings show that when tools have surface level usability experimental scientists are able to readily engage in productive patterns of interaction for their research purposes. However, although they can easily find and operate features the interactions and outcomes are not ultimately useful."
 
-The user suggests that in order to be useful, tools need to be dedicated towards specific complex tasks. (Whilst it's not explicitly stated, I'm inferring that overgeneralisation can harm usability and usefulness).
+The author suggests that in order to be useful, tools need to be dedicated towards specific complex tasks. (Whilst it's not explicitly stated, I'm inferring that overgeneralisation can harm usability and usefulness).
 
-Section 2: Usability testing performed on bioinformatics tools is often too simplistic and doesn't go into the depth of a real use-case, instead being a simple pre-defined task. 
+Section 2: Usability testing performed on bioinformatics tools is often too simplistic and doesn't go into the depth of a real use-case, instead being a simple pre-defined task.
+
+---
+I may possibly be missing parts of this article, I stopped reading and came back ages later. Publishing for now. 
