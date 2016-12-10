@@ -2,7 +2,8 @@
 layout: post
 title:  "First reading article"
 date:   2016-03-01 21:54:45
-categories: reading article-summary
+categories: reading
+tags: reading article-summary
 ---
 
 Link: <https://bioinformatics.oxfordjournals.org/content/25/3/406.full>
