@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading: evaluating a tool's usability based on scientists' actual questions
+title: Reading - evaluating a tool's usability based on scientists' actual questions
 categories: reading
 tags: reading article-summary evaluation-report
 ---
@@ -17,4 +17,4 @@ The author suggests that in order to be useful, tools need to be dedicated towar
 Section 2: Usability testing performed on bioinformatics tools is often too simplistic and doesn't go into the depth of a real use-case, instead being a simple pre-defined task.
 
 ---
-I may possibly be missing parts of this article, I stopped reading and came back ages later. Publishing for now. 
+I may possibly be missing parts of this article, I stopped reading and came back ages later. Publishing for now.
