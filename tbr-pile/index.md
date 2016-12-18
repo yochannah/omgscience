@@ -1,8 +1,8 @@
 ---
 layout: page
-title: reading
+title: TBR
 categories: reading
-tags: reading article-summary
+tags: reading to-be-read
 ---
 
 TBR:
