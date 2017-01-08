@@ -12,3 +12,7 @@ TBR:
 - Simulation tools for biochemical networks: evaluation of performance and usability http://bioinformatics.oxfordjournals.org/content/21/3/357.short
 - Monitoring the evolutionary aspect of the Gene Ontology to enhance predictability and usability http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-S3-S7
 - Chilana PK, Wobbrock JO, Ko JA (2010) Understanding usability practices in complex domains. Proceedings of the 28th International Conference on Human Factors in Computing Systems (CHI '10). pp. 2337–2346. 10–15 April 2010; Atlanta, Georgia, United States.
+- Socio-Cultural characteristics of usability of bioinformatics databases and tools http://www.tandfonline.com/doi/abs/10.1179/030801811X12941390545726
+- Supporting cognition in systems biology analysis: findings on users' processes and design implications http://j-biomed-discovery.biomedcentral.com/articles/10.1186/1747-5333-4-2
+- A pilot study into the usability of a scientific workflow construction tool http://dspace.ucalgary.ca/handle/1880/46486
+- Supporting cognition in systems biology analysis: findings on users' processes and design implications http://j-biomed-discovery.biomedcentral.com/articles/10.1186/1747-5333-4-2
