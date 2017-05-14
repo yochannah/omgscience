@@ -1,8 +1,7 @@
 # Site settings
-title: OMG they do science
+title: OMG science
 email: yochannah@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Nerding about whilst working as a software dev. Like a sort of roadie for science.
+description: > #  Nerding about. Reviewing bioinformatics papers that pertain to usability
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://omgscience.co.uk" # the base hostname & protocol for your site
 twitter_username: yoyehudi
