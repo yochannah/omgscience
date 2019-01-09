@@ -17,3 +17,4 @@ TBR:
 - A pilot study into the usability of a scientific workflow construction tool http://dspace.ucalgary.ca/handle/1880/46486
 - Supporting cognition in systems biology analysis: findings on users' processes and design implications http://j-biomed-discovery.biomedcentral.com/articles/10.1186/1747-5333-4-2
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205898 A large-scale analysis of bioinformatics code on GitHub
+- [https://www.slideshare.net/krap/open-source-software-resilience-framework](https://www.slideshare.net/krap/open-source-software-resilience-framework)
