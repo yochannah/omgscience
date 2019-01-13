@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Reading: A large-scale analysis of bioinformatics code on GitHub
+title: Reading - A large-scale analysis of bioinformatics code on GitHub
 categories: reading-list
-tags: useful reading
+tags: useful reading open-source-metrics open-source-quality bioinformatics github
 ---
 [A large-scale analysis of bioinformatics code on GitHub](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205898) (Pamela H. Russell, Rachel L. Johnson, Shreyas Ananthan, Benjamin Harnke, Nichole E. Carlson)  
 [https://doi.org/10.1371/journal.pone.0205898](https://doi.org/10.1371/journal.pone.0205898)
@@ -12,7 +12,7 @@ This would be a good article to cite if I need statistics on
 - statistics regarding repos and teams on GitHub
 - community / external contributors
 - gender breakdown in bioinf paper authorship
-- length and quality of commits and repos. 
+- length and quality of commits and repos.
 
 Publishing commits after the paper is a very interesting metric...
 
