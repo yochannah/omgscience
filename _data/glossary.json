@@ -1,0 +1,15 @@
+{
+  "Latin square" : {
+    "description" : "square in which each element of an array appears exactly once in each column and each row.",
+    "link" : "https://en.wikipedia.org/wiki/Latin_square"
+  },
+  "generalized linear model" : {
+    "description" : "A linear regression",
+    "link" : "https://en.wikipedia.org/wiki/Generalized_linear_model" }
+  }, {
+    "systematic review" : {
+      "description" : "A literature review",
+      "link" : "https://en.wikipedia.org/wiki/Systematic_review"
+    }
+  }
+}

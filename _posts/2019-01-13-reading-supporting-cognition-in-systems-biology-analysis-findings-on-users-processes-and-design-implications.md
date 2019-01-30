@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading - Supporting cognition in systems biology analysis: findings on users' processes and design implications
+title: Reading - Supporting cognition in systems biology analysis- findings on users' processes and design implications
 categories: reading-list
 tags: useful reading bioinformatics usability
 ---
