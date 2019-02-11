@@ -12,3 +12,7 @@ timezone: Europe/London
 markdown: kramdown
 
 exclude: [vendor]
+
+# Enable custom tag pages pls:
+tag_page_layout: tag_page
+tag_page_dir: tag
