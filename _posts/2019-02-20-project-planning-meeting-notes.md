@@ -23,6 +23,7 @@ Things to think about & learn:
 Interesting / relevant conferences:  
  - [CHI](https://chi2019.acm.org/)  
  - [CSCW](http://cscw.acm.org/2019/)  
+ - [Pistoia Alliance UXLS 2019](https://www.eventbrite.co.uk/e/pistoia-alliance-2019-user-experience-for-life-sciences-uxls-european-conference-tickets-54400037978#tickets)
 
 And always think - "so what?".
 
