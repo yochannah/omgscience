@@ -2,6 +2,7 @@
 layout: post
 title: uxls notes and musings
 date: 2019-02-25 19:22:00
+tags: notes
 ---
 
 Looking at the guides that they have - many are rather sparse but provide good reminders about possible directions to take and techniques to use.
