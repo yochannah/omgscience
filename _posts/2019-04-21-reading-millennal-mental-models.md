@@ -5,7 +5,7 @@ date: 2019-04-21 19:18:00
 tags: reading useful mental-models
 ---
 
-## Article:
+## Article: Millennial Students' Mental Models of Search: Implications for Academic Librarians and Database Developers
 
 Lucy Holman,
 Millennial Students' Mental Models of Search: Implications for Academic Librarians and Database Developers,
@@ -16,7 +16,7 @@ Pages 19-27,
 ISSN 0099-1333,
 https://doi.org/10.1016/j.acalib.2010.10.003.
 (http://www.sciencedirect.com/science/article/pii/S0099133310002545)
-Abstract: ABSTRACT
+
 
 The discussion of mental models is particularly interesting here, as well as citations that lead to other interesting articles, such as this note on the transferability (or lack of) mental models:
 
