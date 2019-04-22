@@ -31,4 +31,4 @@ TBR:
 ## Bio - general
 
 - [Domain knowledge and data quality perceptions in genome curation work](https://doi-org.manchester.idm.oclc.org/10.1108/JD-08-2013-0104)
-- [Cognitive Task Analysis of Data Mining Processes in Bioinformatics Research ](https://doi-org.manchester.idm.oclc.org/10.1177%2F154193120404800533)
+- [Cognitive Task Analysis of Data Mining Processes in Bioinformatics Research](https://doi-org.manchester.idm.oclc.org/10.1177%2F154193120404800533)
