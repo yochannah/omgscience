@@ -83,7 +83,8 @@ Possible problems: Providing cards with all three of these types of data may res
 
 Possible ways to address this
 
-**A:** Structure this in a three or four-part process:
+**A:** Structure this in a three or four-part process:  
+
   1. Provide entities and ask for people to arrange them and explain the relationships.
   2. Provide property cards and ask for them to be added to the model.
   3. Provide the property value cards, and repeat.
