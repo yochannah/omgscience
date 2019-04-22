@@ -19,7 +19,7 @@ TBR:
 - [A pilot study into the usability of a scientific workflow construction tool](http://dspace.ucalgary.ca/handle/1880/46486)
 - [Supporting cognition in systems biology analysis: findings on users' processes and design implications](http://j-biomed-discovery.biomedcentral.com/articles/10.1186/1747-5333-4-2)
 
-## OPEN SOURCE: 
+## OPEN SOURCE:
 
 - [https://www.slideshare.net/krap/open-source-software-resilience-framework](https://www.slideshare.net/krap/open-source-software-resilience-framework)
 
@@ -27,3 +27,8 @@ TBR:
 
 - Marchionini G. Toward human-computer information retrieval. Bul Am Soc Info Sci Tech 2007 Sep 20;32(5):20-22. [doi:
 10.1002/bult.2006.1720320508](https://onlinelibrary.wiley.com/doi/full/10.1002/bult.2006.1720320508)
+
+## Bio - general
+
+- [Domain knowledge and data quality perceptions in genome curation work](https://doi-org.manchester.idm.oclc.org/10.1108/JD-08-2013-0104)
+- [Cognitive Task Analysis of Data Mining Processes in Bioinformatics Research ](https://doi-org.manchester.idm.oclc.org/10.1177%2F154193120404800533)
