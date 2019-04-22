@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First project planning meeting
-tags: project-planning project-update
+tags: project-planning project-update notes
 date: 2019-02-20 19:16:00
 ---
 
