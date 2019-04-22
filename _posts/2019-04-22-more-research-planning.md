@@ -5,11 +5,13 @@ date: 2019-04-22 22:01:00
 tags: notes planning mental-models
 ---
 
-Mapping data models. I think I would like to [Preregister](https://cos.io/prereg/) this when we feel that the plan is as clear as possible.
+Mapping data models. I think I would like to [preregister](https://cos.io/prereg/) this when we feel that the plan is as clear as possible.
 
 ## Research question:
 
 Draft wording: Does a person's educational background in biology and computational subjects have an effect of their ability to create effective biological data models, and to map biological data onto this model?
+
+Maybe break down into sub-questions + null hypotheses, with expectation that biology + less computer will be different from biology+computer knowledge or even just computer w/ low biology. More notes about this [here](/2019/03/23/towards-a-first-experiment-what-mental-models-do-people-need-to-interact-with-biological-software.html)
 
 ## Background questionnaire
 
@@ -42,6 +44,11 @@ Draft wording: Does a person's educational background in biology and computation
     - Other
 3. What file formats do you work with, if any? (e.g. FASTA, GFF, BAM, VCF, etc...) (free form text)
 4. Do you focus on any specific organisms? (free form text, too many to list!)
+
+## Research design
+
+Independent variable: User characteristics as listed above.
+
 
 ## Analysis of results...
 

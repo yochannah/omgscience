@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading discard: training effects on acceptance of biology software.
+title: Reading discard-  training effects on acceptance of biology software.
 date: 2019-04-21 21:21:00
 tags: reading discard not-useful mental-models
 ---
@@ -13,4 +13,4 @@ This article was mostly related to how biologists felt about certain bioinformat
 
 > It is suggested that the ability of experienced learners to form a mental model of the system is not dependent on the hands‐on training method and hence this did not affect their perceptions of the bioinformatics tools.
 
-Further investigations related to training (and especially lack of) for new biology related systems could be interesting - I should check out the citations of this article. 
+Further investigations related to training (and especially lack of) for new biology related systems could be interesting - I should check out the citations of this article.

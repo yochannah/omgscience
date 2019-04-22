@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading: Millennial Students' Mental Models of Search: Implications for Academic Librarians and Database Developers
+title: Reading - Millennial Students' Mental Models of Search - Implications for Academic Librarians and Database Developers
 date: 2019-04-21 19:18:00
 tags: reading useful mental-models article-summary
 ---
