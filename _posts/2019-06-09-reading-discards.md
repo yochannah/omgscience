@@ -5,7 +5,7 @@ date: 2019-06-08 21:36:04
 tags: reading discard not-useful mental-models
 ---
 
-Carole suggested that ontology design is similar to mental models. So far I think I'm looking in the wrong places though.
+Carole suggested that ontology design is similar to mental models. So far I think I'm looking in the wrong places though. These are all about technical design considerations, not how to get them and understand them.
 
 - Obitko, M., Snásel, V., & Smid, J. (2004). Ontology Design with Formal Concept Analysis. ResearchGate. Retrieved from https://www.researchgate.net/publication/200473556_Ontology_Design_with_Formal_Concept_Analysis
   - Why not useful? Mostly about methods to structure ontologies, less about eliciting them.
@@ -14,4 +14,4 @@ Carole suggested that ontology design is similar to mental models. So far I thin
 - Designing and Evaluating Generic Ontologies. (1996). Retrieved from http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.22.4160
   - No human factors, again.
 
-I think this is still a relevant places to explore, but maybe I need different search terms. "Eliciting" might be good. 
+I think this is still a relevant places to explore, but maybe I need different search terms. "Eliciting" might be good.
