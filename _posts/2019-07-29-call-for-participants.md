@@ -10,5 +10,5 @@ I'm conducting a study to see whether people from biological/wet-lab backgrounds
 How you can help:
 
 - Sign up to do an interview: email Yo Yehudi at yochannah.yehudi@postgrad.manchester.ac.uk
-- Share this poster in your research institute, via email and/or noticeboards.
+- Share [this poster](assets/AdvertisingPoster.pdf) in your research institute, via email and/or noticeboards.
 - Share word with others via Twitter.
