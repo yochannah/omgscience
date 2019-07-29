@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biological mental model study - call for participants
+title: Biological mental model study call for participants
 date: 2019-07-29 12:13
 tags: mental-models
 ---
