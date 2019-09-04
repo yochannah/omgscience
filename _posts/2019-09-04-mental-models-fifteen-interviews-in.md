@@ -17,8 +17,4 @@ Some thoughts and notes on what's happened so far.
 4. While many people added a few cards, mostly people didn't feel the need to add much. The model we started with seems to be reasonably complete.
 5. I'm glad I decided to alternate the order of tasks A and B - one participant worried that the ordering had affected their performance, and I think it possibly does as well.
 6. Some other possible codes: some people made clusters of related things, some people made hierarchic piles, and some people made trees of data.
-7. Some card values were too generic to be clear to most people - e.g. "name", "accession". Others were potentially applicable to many different places - e.g. "length", "molecular weight". 
-
-## Some todos for these tasks while I remember
-
-- possible code
+7. Some card values were too generic to be clear to most people - e.g. "name", "accession". Others were potentially applicable to many different places - e.g. "length", "molecular weight".
