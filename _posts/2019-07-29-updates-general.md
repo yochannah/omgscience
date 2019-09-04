@@ -2,7 +2,7 @@
 layout: post
 title: Updates and general notes
 date: 2019-07-29 14:48:04
-tags: mental-models ethics-review
+tags: mental-models ethics-review olx olbio open-leaders
 ---
 
 Some updates:
