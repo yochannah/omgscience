@@ -19,6 +19,10 @@ TBR:
 - [A pilot study into the usability of a scientific workflow construction tool](http://dspace.ucalgary.ca/handle/1880/46486)
 - [Supporting cognition in systems biology analysis: findings on users' processes and design implications](http://j-biomed-discovery.biomedcentral.com/articles/10.1186/1747-5333-4-2)
 
+## Bio + open source
+
+- [Challenges in funding and developing genomic software: roots and remedies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1763-7)
+
 ## OPEN SOURCE:
 
 - [https://www.slideshare.net/krap/open-source-software-resilience-framework](https://www.slideshare.net/krap/open-source-software-resilience-framework)
