@@ -9,7 +9,7 @@ tags: mental-models
 
 I'm conducting a study to see whether people from biological/wet-lab backgrounds vs more computational backgrounds tend to envision biological data structures differently. This involves in-person recorded interviews (30-60 minutes) so participants must be in the UK, although I am able to travel to meet you, so long as it's within a day trip from Cambridge (or several interviews at once at your institute). Weekends and evenings are fine for me too if that works for you.
 
-## How you can help:
+## How you can help:
 
 - Sign up to do an interview: email Yo Yehudi at yochannah.yehudi@postgrad.manchester.ac.uk for more info, or DM me on twitter if I follow you. I'm [@yoyehudi](https://twitter.com/yoyehudi).
 - Share [this poster](/assets/AdvertisingPosterv2_sept_2019) in your research institute, via email and/or noticeboards.
