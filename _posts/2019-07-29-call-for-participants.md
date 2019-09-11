@@ -17,7 +17,7 @@ I'm conducting a study to see whether people from biological/wet-lab backgrounds
 
 ## I want to know more!
 
-The best way to learn more is to sign up to participate or to [watch my twitter account]((https://twitter.com/yoyehudi); I'll release a preprint as soon as I reasonably feel I can, and I aim to do this by the end of the year. You can also read more about the study in the [participant information sheet](/assets/Participant Information And Consent Form.pdf) - apologies if it's a bit dry!
+The best way to learn more is to sign up to participate or to [watch my twitter account](https://twitter.com/yoyehudi); I'll release a preprint as soon as I reasonably feel I can, and I aim to do this by the end of the year. You can also read more about the study in the [participant information sheet](/assets/Participant Information And Consent Form.pdf) - apologies if it's a bit dry!
 
 ## Where / when?
 
