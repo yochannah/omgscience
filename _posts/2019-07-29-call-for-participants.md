@@ -12,7 +12,7 @@ I'm conducting a study to see whether people from biological/wet-lab backgrounds
 ## How you can help:
 
 - Sign up to do an interview: email Yo Yehudi at yochannah.yehudi@postgrad.manchester.ac.uk for more info, or DM me on twitter if I follow you. I'm [@yoyehudi](https://twitter.com/yoyehudi).
-- Share [this poster](/assets/AdvertisingPosterv2_sept_2019) in your research institute, via email and/or noticeboards.
+- Share [this poster (docx)](/assets/AdvertisingPosterv2_sept_2019.docx) (Also available in [pdf](/assets/AdvertisingPosterv2_sept_2019.docx))  in your research institute, via email and/or noticeboards.
 - Share word with others via Twitter. You can retweet [this tweet](https://twitter.com/i/timeline).
 
 ## I want to know more!
