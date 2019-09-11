@@ -12,12 +12,12 @@ I'm conducting a study to see whether people from biological/wet-lab backgrounds
 ## How you can help:
 
 - Sign up to do an interview: email Yo Yehudi at yochannah.yehudi@postgrad.manchester.ac.uk for more info, or DM me on twitter if I follow you. I'm [@yoyehudi](https://twitter.com/yoyehudi).
-- Share [this poster](assets/AdvertisingPosterv2_sept_2019) in your research institute, via email and/or noticeboards.
+- Share [this poster](/assets/AdvertisingPosterv2_sept_2019) in your research institute, via email and/or noticeboards.
 - Share word with others via Twitter. You can retweet [this tweet](https://twitter.com/i/timeline).
 
 ## I want to know more!
 
-The best way to learn more is to sign up to participate or to [watch my twitter account]((https://twitter.com/yoyehudi); I'll release a preprint as soon as I reasonably feel I can, and I aim to do this by the end of the year. You can also read more about the study in the [participant information sheet](assets/Participant Information And Consent Form.pdf) - apologies if it's a bit dry!
+The best way to learn more is to sign up to participate or to [watch my twitter account]((https://twitter.com/yoyehudi); I'll release a preprint as soon as I reasonably feel I can, and I aim to do this by the end of the year. You can also read more about the study in the [participant information sheet](/assets/Participant Information And Consent Form.pdf) - apologies if it's a bit dry!
 
 ## Where / when?
 
