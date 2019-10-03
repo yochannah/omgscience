@@ -26,6 +26,7 @@ TBR:
 ## OPEN SOURCE:
 
 - [https://www.slideshare.net/krap/open-source-software-resilience-framework](https://www.slideshare.net/krap/open-source-software-resilience-framework)
+- [COOPERATIVE SIGNALING BEHAVIOR: SIGNALS FOR OPEN SOURCE PROJECT HEALTH](https://digitalcommons.unomaha.edu/isqastudent/1/) Georg John Peter Link, University of Nebraska at Omaha
 
 ## General usability
 
@@ -41,6 +42,8 @@ TBR:
 - [Challenges in bioinformatics: infrastructure, models and analytics](https://doi.org/10.1016/S0167-7799\(01\)01603-1)
 
 ## Mental modelling
+
+- [The cognitive basis of model-based reasoning in science](DOI: https://doi.org/10.1017/CBO9780511613517.008)
 - [Drawing-to-Learn: A Framework for Using Drawings to Promote Model-Based Reasoning in Biology](https://doi.org/10.1187/cbe.14-08-0128)
 - [Externalising students' mental models through concept maps](https://doi-org.manchester.idm.oclc.org/10.1080/00219266.2007.9656078)
 - [Understanding and characterizing insights: how do people gain insights using information visualization?](https://doi-org.manchester.idm.oclc.org/10.1145/1377966.1377971)
