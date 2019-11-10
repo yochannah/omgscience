@@ -28,6 +28,9 @@ TBR:
 - [https://www.slideshare.net/krap/open-source-software-resilience-framework](https://www.slideshare.net/krap/open-source-software-resilience-framework)
 - [COOPERATIVE SIGNALING BEHAVIOR: SIGNALS FOR OPEN SOURCE PROJECT HEALTH](https://digitalcommons.unomaha.edu/isqastudent/1/) Georg John Peter Link, University of Nebraska at Omaha
 
+## Sustainability in Open Source
+- [Measuring sustainability of seed-funded earth science informatics projects](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222807)
+
 ## General usability
 
 - Marchionini G. Toward human-computer information retrieval. Bul Am Soc Info Sci Tech 2007 Sep 20;32(5):20-22. [doi:
