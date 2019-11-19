@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biological mental model study call for participants - Wetlab edition
+title: Biological mental model study call for participants, wetlab edition
 date: 2019-11-19 18:05
 tags: mental-models
 ---
