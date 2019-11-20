@@ -13,7 +13,10 @@ Interested in participating? A typical interview takes 30-60 minutes, and I can 
 
 ## How you can help:
 
-- Sign up to do an interview: email Yo Yehudi at yochannah.yehudi@postgrad.manchester.ac.uk for more info, or DM me on twitter if I follow you. I'm [@yoyehudi](https://twitter.com/yoyehudi).
+- Sign up to do an interview:
+    - [Sign up for a calendar slot](https://calendly.com/yo-yehudi-manchester/mental-model-study-genetics-clone?month=2019-11)
+    - OR email Yo Yehudi at yochannah.yehudi@postgrad.manchester.ac.uk for more info
+    - OR DM me on twitter if I follow you. I'm [@yoyehudi](https://twitter.com/yoyehudi).
 - Share [this poster ([pdf](/assets/AdvertisingPosterv3_nov_2019.pdf)] in your research institute, via email and/or noticeboards.
 - Share word with others via Twitter.
 
