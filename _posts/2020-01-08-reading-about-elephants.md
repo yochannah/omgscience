@@ -13,7 +13,7 @@ I'm on the plane and the price for wifi is extortionate, so I'm not able to foll
 
 I printed it out, read it, and part way through realised it probably had _nothing_ to do with the CHOASS Elephant Factor metric.
 
-Thankfully I do have a copy downloaded offline - reading through, I noticed this explanatory snippet:
+Thankfully I do have a copy of the CHAOSS metrics downloaded offline - reading through, I noticed this explanatory snippet:
 
 >Elephant Factor provides an easy-to-consume indication of the minimum number of companies performing a parameterized filter (i.e. 50%) of the work. The origin of the term "elephant factor" is not clearly delineated in the literature, though it may arise out of the general identification of software sustainability as a critical non-functional software requirements by Venters et al (2014).
 
@@ -28,7 +28,7 @@ It was an interesting read despite the fact it wasn't what I thought it was, whi
 - it has lots more reading about sustainability measures
 - repeatedly states that software sustainability is a non-functional requirement, and points out that academic software often has haphazard construction and may be especially proof-of-concept-ey, and/or focused on nonfunctional requirements.
 - points out that software metrics can not always be measured in a quantifiable way - e.g. reliability.
-- Uses the parable of the bling men and the elephant (one feels the trunk and asset it's like a rope, another feels a different part of the elephant and makes different claims about the elephant) to remind us that we need tp find metrics that genuinely assess what we want to assess clearly. Using this theme could be useful to point out vanity metrics and gamifiable metrics.
+- Uses the parable of the bling men and the elephant (one feels the trunk (or maybe tail?) and asset it's like a rope, another feels a different part of the elephant and makes different claims about the elephant) to remind us that we need to find metrics that genuinely assess what we want to assess clearly. Using this theme could be useful to point out vanity metrics and gamifiable metrics.
 - lots of nice bits I can quote. Some samples:
 
 > "The concept of sustainability goes beyond the software artifact itself"
