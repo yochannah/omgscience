@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHAOSS - reading through the metrics and thinking.
-date: 2019-10-10 13:25:00
+date: 2019-12-28 13:25:00
 tags: mental-models ols olx
 ---
 
@@ -38,7 +38,7 @@ Some notes as I think of them:
     3. # loc of commits.
   6. Licence - present, copyleft, permissive?
   7. Velocity. The metrics had number of commits vs number of PRs/issues as velocity. Is this meaningful?
-  8. Derived from CHAOSS but not directly their metric - also possibly a hard one to measure. Twitter mentions? //todo investigate how hard/easy this is to track. 
+  8. Derived from CHAOSS but not directly their metric - also possibly a hard one to measure. Twitter mentions? //todo investigate how hard/easy this is to track.
 ### Stuff I'm not sure about / maybe dislike / need to think some more
 
 **Licence** - this is where it gets tricky. The metrics discuss number of files without a licence in them. This seems contrived to me as a metrics of sustainability, BUT it justifies things by pointing out that companies may not want to pick up higher risk projects that don't have clear safe licencing processes. It also mentions number of licences, because - logically - this adds legal complexity if some files are licenced one way, some the other. (biopython might be an example here).  
