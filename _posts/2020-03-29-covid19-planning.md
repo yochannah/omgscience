@@ -35,6 +35,7 @@ tags: covid data-availability 🦠
 ### Research questions to answer
 
 In times of a pandemic or epidemic when rapid response is required, what are attitudes towards pathogen-related data sharing and data access? In particular:
+
 - Are these data licenced in a way that permits re-use and redistribution?
 - Are they made available in ways that are easy to download and re-use, e.g. API or bulk download, machine-readable with relevant metadata?
 - What response do various communities have to these restrictions?
