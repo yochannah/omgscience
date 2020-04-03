@@ -21,6 +21,7 @@ tags: covid data-availability 🦠
   - contact them to ask if they mind being studied! (just the organisers) ☑️
 - NF-core covid group ☑️
 - RDA group
+- https://docs.google.com/document/d/1ExyphyMfvUTlPj7vZ3wvbIIEqv4nhBpyLcV0_n1H5e8/edit
 - ask (twitter?) for experiences // wait for ethics
   - slight possibility of it being really difficult to manage responses.
   - possible mitigation?
