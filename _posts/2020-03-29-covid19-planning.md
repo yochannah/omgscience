@@ -2,7 +2,6 @@
 layout: post
 title: 🦠 Covidy planning notes
 date: 2020-03-28 22:27
-categories: reading
 tags: covid data-availability 🦠
 ---
 
