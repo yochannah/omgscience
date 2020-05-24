@@ -2,7 +2,7 @@
 layout: post
 title: CHAOSS - reading through the metrics and thinking.
 date: 2019-12-28 13:25:00
-tags: mental-models ols olx
+tags: chaoss ols olx sustainability software-sustainability
 ---
 
 I've been reading the [CHAOSS Metrics](https://chaoss.community/metrics/) (Community Health Analytics Open Source Software) recently. Emmy printed them for me so I could easily annotate them 😍.
@@ -24,18 +24,18 @@ Some notes as I think of them:
         1. # of lines
         2. # of commits
     5. Review Metrics
-        1. # of PRs
-        2. # accepted / rejected / left open
+        1. \# of PRs
+        2. \# accepted / rejected / left open
         3. Median time from open-to-resolved.
     6. Issue/ticket based metrics
-        1. # opened
-        2. # reopened (there are caveats about measuring closed and reopened tickets!)
-        3. # closed
+        1. \# opened
+        2. \# reopened (there are caveats about measuring closed and reopened tickets!)
+        3. \# closed
         4. Time to close (?)
     6. Committer Metrics
         1. How many orgs do they come from?
-        2. # of committers
-        3. # loc of commits.
+        2. \# of committers
+        3. \# loc of commits.
     7. Licence - present, copyleft, permissive?
     8. Velocity. The metrics had number of commits vs number of PRs/issues as velocity. Is this meaningful? (I don't see the point).
     9. Derived from CHAOSS but not directly their metric - also possibly a hard one to measure. Twitter mentions? //todo investigate how hard/easy this is to track.

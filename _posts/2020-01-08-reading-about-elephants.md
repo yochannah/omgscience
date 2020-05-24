@@ -2,7 +2,7 @@
 layout: post
 title: Reading - 🐘 About elephants in the room, and blind men. And blind Yos as well I suppose.
 categories: reading
-tags: reading article-summary software-sustainability architecture elephant
+tags: reading article-summary software-sustainability architecture elephant chaoss
 ---
 
 I've just been reading "The blind men and the elephant: towards an empirical evaluation framework for software sustainability" - doi: 10.5334/jors.ao.
