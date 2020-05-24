@@ -3,6 +3,7 @@ layout: page
 title: TBR
 categories: reading
 tags: reading to-be-read
+show-in-nav: true
 ---
 
 TBR:

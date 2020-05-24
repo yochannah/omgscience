@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: COVID-19 Data Access Study
 date: 2020-05-03 12:35
 tags: covid data-availability 🦠

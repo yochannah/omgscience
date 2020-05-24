@@ -12,7 +12,7 @@ timezone: Europe/London
 markdown: kramdown
 
 exclude: [vendor]
-include: _covid
+include: [_covid, _opensourcecommunity]
 
 # Enable custom tag pages pls:
 tag_page_layout: tag_page
