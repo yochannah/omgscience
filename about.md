@@ -5,10 +5,8 @@ permalink: /about/
 show-in-nav: true
 ---
 
+Research log and reading notes for Yo Yehudi, an [EngD student at Manchester](https://www.research.manchester.ac.uk/portal/yochannah.yehudi-postgrad.html).
 
+The original purpose was to use this blog for notes regarding bio usability and open source, with the intent of having done a decent amount of reading and understanding in the bioinformatics usability area before applying for a part time PhD. In late 2018 I was accepted into the University of Manchester's [EngD program](https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/11760/engd-software-systems-engineering/), as the first person doing this degree to my knowledge.
 
-This blog is where my notes regarding bio usability and open source will go, with the intent of having done a decent amount of reading and understanding in the bioinformatics usability area, ~so I can eventually work up the nerve to apply for part-time postgrad study~
-
-**Edit, Early 2019:** These pages are now notes _for_ my EngD ☺☺☺☺.
-
-Initially this will mostly be reading papers and noting what seems to be useful and relevant.
+I write about my professional life sporadically at [yo-yehudi.com](http://yo-yehudi.com)
