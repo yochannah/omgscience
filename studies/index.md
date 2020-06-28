@@ -21,4 +21,4 @@ show-in-nav: true
 
 **Status:** Preparing ethics, on hold while I get preparations for a COVID-19 related study through.  
 **What's it about?** Tracking open projects over time to see what factors, if any, of the CHAOSS metrics, correlate with ongoing project maintenance and sustainability.  
-**Links:** Read up on the [sustainability](/tag/software-sustainability) tag.
+**Links:** Read up on the [sustainability](/tag/software-sustainability) tag, or visit [https://sustainable-open-science-and-software.github.io/](https://sustainable-open-science-and-software.github.io/) to help recruit or participate ✨
